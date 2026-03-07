@@ -1,2 +1,0 @@
-file create to demonstrate the file intialization 
-time is 
