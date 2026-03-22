@@ -30,14 +30,15 @@ Before you begin, ensure you have the following installed:
 
 - [Requirement 1 - e.g., Node.js v14+]
 - [Requirement 2 - e.g., npm or yarn]
+- [Requirement 3 - e.g., mongoDB compass]
 
 ### Installation
 
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/Mayankkumar1234/My-LibSpace
-    cd My-LibSpace
+    git clone : https://github.com/gnna-m/Libspace
+    cd LibSpace
     ```
 
 2.  **Install dependencies**
